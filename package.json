@@ -1,0 +1,23 @@
+{
+  "name": "node-gmp",
+  "version": "1.0.0",
+  "description": "NodeJS Global mentoring program homework repo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olahd-epam/node-gmp.git"
+  },
+  "author": "Daniel Olah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olahd-epam/node-gmp/issues"
+  },
+  "homepage": "https://github.com/olahd-epam/node-gmp#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
